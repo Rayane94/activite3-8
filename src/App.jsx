@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import ProductList from './components/ProductList';
+import ProductList from './components/ProductList.jsx';
 
 function App() {
   return (
